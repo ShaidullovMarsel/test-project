@@ -1,0 +1,27 @@
+[
+  {  
+  "id": 1,
+  "name": "new file",
+  "type": "File",
+  "size": 34,
+  "date": 1726482568411
+  },
+  { "id": 2,
+    "name": "666",
+    "type": "Folder",
+    "size": 12,
+    "date": 1826486768411
+  },
+  {   "id": 3,
+    "name": "New file 2",
+    "type": "File",
+    "size": 65,
+    "date": 1726482568411
+  },
+  {   "id": 4,
+  "name": "777",
+  "type": "Folder",
+  "size": 22,
+  "date": 1726482568411
+  }
+]
